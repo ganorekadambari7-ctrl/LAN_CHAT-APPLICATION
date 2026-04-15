@@ -48,3 +48,4 @@ lan_chat_v5u/
 - Enter the same passphrase used by clients in the admin login screen
 - Server will decrypt and display messages in plaintext in the monitor
 - Admin DMs can also be sent encrypted
+hello
