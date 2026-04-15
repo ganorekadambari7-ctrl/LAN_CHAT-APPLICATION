@@ -1,0 +1,98 @@
+[2026-04-14 14:32:55] === Server v5u started 2026-04-14 14:32:55 ===
+[2026-04-14 14:35:07] JOIN Kadambari from ('127.0.0.1', 56894)
+[2026-04-14 14:35:38] JOIN Kavisha from ('127.0.0.1', 56895)
+[2026-04-14 14:36:00] JOIN Shruuu from ('127.0.0.1', 56896)
+[2026-04-14 14:36:24] JOIN kavuuuu from ('127.0.0.1', 56897)
+[2026-04-14 14:36:43] GROUP: Uss Forever by kavuuuu, members: {'Kadambari', 'kavuuuu', 'Kavisha'}
+[2026-04-14 14:37:02] GROUP [Uss Forever] kavuuuu: th9VRVPY1L1FS9rG2ii0p0DwY20TrazIDZeBHlu4MKz53cX0d3+6bl7o
+[2026-04-14 14:39:10] JOIN Shivangi from ('127.0.0.1', 61672)
+[2026-04-14 14:39:17] MSG [Shivangi]: [encrypted]
+[2026-04-14 14:42:16] ERROR ('127.0.0.1', 61672): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 14:42:16] LEAVE Shivangi
+[2026-04-14 14:42:21] ERROR ('127.0.0.1', 56897): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 14:42:21] LEAVE kavuuuu
+[2026-04-14 14:42:23] ERROR ('127.0.0.1', 56896): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 14:42:23] LEAVE Shruuu
+[2026-04-14 14:42:26] ERROR ('127.0.0.1', 56895): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 14:42:26] LEAVE Kavisha
+[2026-04-14 14:42:27] ERROR ('127.0.0.1', 56894): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 14:42:27] LEAVE Kadambari
+[2026-04-14 14:42:54] === Server v5u started 2026-04-14 14:42:54 ===
+[2026-04-14 14:44:41] JOIN Abc from ('127.0.0.1', 51901)
+[2026-04-14 14:45:07] JOIN def from ('127.0.0.1', 51904)
+[2026-04-14 14:45:13] MSG [def]: [encrypted]
+[2026-04-14 14:45:47] === Server v5u started 2026-04-14 14:45:47 ===
+[2026-04-14 14:46:33] JOIN Shraddha from ('127.0.0.1', 51812)
+[2026-04-14 14:46:49] JOIN kavisha from ('127.0.0.1', 51813)
+[2026-04-14 14:47:06] JOIN rutuja from ('127.0.0.1', 51815)
+[2026-04-14 14:47:34] JOIN shivansh from ('127.0.0.1', 56230)
+[2026-04-14 14:47:48] JOIN swara from ('127.0.0.1', 56231)
+[2026-04-14 14:48:01] MSG [rutuja]: Hello Everyonee
+[2026-04-14 15:19:49] MSG [Shraddha]: 🏆Congratulationsss
+[2026-04-14 15:19:58] FILE [Shraddha]: 25102C2001 CG Lab 8 Exp (1).pdf
+[2026-04-14 15:20:42] MSG [Shraddha]: hi
+[2026-04-14 15:20:42] MSG [Shraddha]: hi
+[2026-04-14 15:20:43] MSG [Shraddha]: hi
+[2026-04-14 15:20:44] MSG [Shraddha]: hi
+[2026-04-14 15:20:44] MSG [Shraddha]: hi
+[2026-04-14 15:21:43] MSG [Shraddha]: hii
+[2026-04-14 15:26:23] JOIN Shivani from ('127.0.0.1', 63632)
+[2026-04-14 15:27:05] ERROR ('127.0.0.1', 51812): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 15:27:05] LEAVE Shraddha
+[2026-04-14 15:27:07] ERROR ('127.0.0.1', 51813): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 15:27:07] LEAVE kavisha
+[2026-04-14 15:27:08] ERROR ('127.0.0.1', 51815): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 15:27:08] LEAVE rutuja
+[2026-04-14 15:27:11] ERROR ('127.0.0.1', 56230): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 15:27:11] LEAVE shivansh
+[2026-04-14 15:27:13] ERROR ('127.0.0.1', 63632): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 15:27:13] LEAVE Shivani
+[2026-04-14 15:27:15] ERROR ('127.0.0.1', 56231): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 15:27:15] LEAVE swara
+[2026-04-14 15:28:01] === Server v5u started 2026-04-14 15:28:01 ===
+[2026-04-14 15:30:15] JOIN Kadambari from ('127.0.0.1', 64167)
+[2026-04-14 15:30:50] JOIN kadambari from ('127.0.0.1', 54392)
+[2026-04-14 15:33:15] JOIN Rutuja from ('127.0.0.1', 55713)
+[2026-04-14 15:33:43] JOIN Shraddha from ('127.0.0.1', 64558)
+[2026-04-14 15:34:16] JOIN Abhay from ('127.0.0.1', 64559)
+[2026-04-14 15:34:31] MSG [Kadambari]: Heyyy There everyonee
+[2026-04-14 15:35:29] JOIN Sumit from ('127.0.0.1', 65023)
+[2026-04-14 15:36:22] ADMIN DM → kadambari: hii kadambari
+[2026-04-14 15:36:57] ADMIN BROADCAST: Everyoneee
+[2026-04-14 15:37:14] ADMIN BLOCKED: Kadambari
+[2026-04-14 15:37:24] ADMIN KICKED: Sumit
+[2026-04-14 15:37:24] ERROR ('127.0.0.1', 65023): [WinError 10053] An established connection was aborted by the software in your host machine
+[2026-04-14 15:37:24] LEAVE Sumit
+[2026-04-14 15:37:46] ADMIN UNBLOCKED: Kadambari
+[2026-04-14 15:37:47] ADMIN UNBLOCKED: Kadambari
+[2026-04-14 15:38:50] ERROR ('127.0.0.1', 64167): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 15:38:50] LEAVE Kadambari
+[2026-04-14 15:38:52] ERROR ('127.0.0.1', 64559): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 15:38:52] LEAVE Abhay
+[2026-04-14 15:38:55] ERROR ('127.0.0.1', 55713): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 15:38:55] LEAVE Rutuja
+[2026-04-14 15:38:57] ERROR ('127.0.0.1', 64558): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 15:38:57] LEAVE Shraddha
+[2026-04-14 15:39:01] ERROR ('127.0.0.1', 54392): [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-04-14 15:39:01] LEAVE kadambari
+[2026-04-14 15:39:23] === Server v5u started 2026-04-14 15:39:23 ===
+[2026-04-14 15:39:35] === Server v5u started 2026-04-14 15:39:35 ===
+[2026-04-14 15:40:30] JOIN Kad from ('127.0.0.1', 58282)
+[2026-04-14 15:40:52] JOIN ruttzz from ('127.0.0.1', 55830)
+[2026-04-14 15:41:12] JOIN shradz from ('127.0.0.1', 50220)
+[2026-04-14 15:41:33] JOIN siddhi from ('127.0.0.1', 50221)
+[2026-04-14 15:41:59] JOIN siya from ('127.0.0.1', 50222)
+[2026-04-14 15:42:58] JOIN adhishree from ('127.0.0.1', 56238)
+[2026-04-14 15:43:07] MSG [adhishree]: hiii
+[2026-04-14 15:44:44] MSG [siddhi]: Hello
+[2026-04-14 19:49:52] === Server v5u started 2026-04-14 19:49:52 ===
+[2026-04-14 20:03:13] === Server v5u started 2026-04-14 20:03:13 ===
+[2026-04-14 20:04:30] JOIN kadu from ('127.0.0.1', 65125)
+[2026-04-14 20:05:09] JOIN rutu from ('127.0.0.1', 63138)
+[2026-04-14 20:05:45] JOIN shradh from ('127.0.0.1', 51875)
+[2026-04-14 20:06:43] MSG [shradh]: hiii
+[2026-04-14 20:07:29] MSG [rutu]: hello
+[2026-04-14 20:09:35] === Server v5u started 2026-04-14 20:09:35 ===
+[2026-04-15 14:19:34] === Server v5u started 2026-04-15 14:19:34 ===
+[2026-04-15 14:20:42] === Server v5u started 2026-04-15 14:20:42 ===
+[2026-04-15 14:24:26] === Server v5u started 2026-04-15 14:24:26 ===
